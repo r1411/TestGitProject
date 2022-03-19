@@ -19,6 +19,8 @@ namespace TestGitProject
     }
 }
 
+/*Я стал новым пиратом*/
+
 /* CYBER COMMENT */
 /* ANOTHER CYBER COMMENT */
 
